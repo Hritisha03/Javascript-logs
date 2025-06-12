@@ -1,5 +1,5 @@
 # Javascript-logs
-logging my JS learning journey
+
 Hey there!
 This repo is my little corner of the internet where I’m learning JavaScript step-by-step. From baby steps like console.log("hello world") to building interactive stuff with the DOM — it’s all going here.
 
